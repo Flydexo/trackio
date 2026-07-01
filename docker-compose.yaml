@@ -1,0 +1,5 @@
+services:
+  trackio:
+    image: flydex0/trackio
+    ports:
+      - 8032:80
